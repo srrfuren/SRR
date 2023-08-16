@@ -1,0 +1,16 @@
+info:
+  title: 冬云的博客
+  author: 布鸽不鸽
+  url: https://srrfuren.github.io/SRR/
+defaults:
+  avatar:
+  favicon: 
+home_banner:
+  title: 程序员的个人修养
+  subtitle:
+    text: ["Hello World!", "Across the Great Wall we can reach every corner in the world"]
+    typing_speed: 50
+  image:
+    light: 
+footer:
+  start: 2022/4/19 20:56:00
